@@ -1,5 +1,9 @@
 # SysOps & Security Toolkit
 
+[![CI - Test Suite](https://github.com/aimenrial432/sysops-toolkit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aimenrial432/sysops-toolkit/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/Python-3.12%20%7C%203.13-blue?logo=python&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Streaming%20Generators-success)
+
 A modular collection of lightweight, dependency-minimal Python CLI utilities designed for system administration, network diagnostics, and defensive log triage.
 
 ## Architecture
